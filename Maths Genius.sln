@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lootlocker.lootlockersdk.runtime", "lootlocker.lootlockersdk.runtime.csproj", "{ad9f6786-fd37-2d75-7230-2bb20fcff8e5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{3fb6f637-8d8c-f68c-c9fa-0b7022027a57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ad9f6786-fd37-2d75-7230-2bb20fcff8e5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ad9f6786-fd37-2d75-7230-2bb20fcff8e5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3fb6f637-8d8c-f68c-c9fa-0b7022027a57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3fb6f637-8d8c-f68c-c9fa-0b7022027a57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
